@@ -50,7 +50,7 @@ Users can ask questions in plain English, and the chatbot automatically generate
 ## 📁 Project Structure
 
 ```text
-8-Chat-SQL/
+langchain-database-chatbot-main
 │
 ├── app.py
 ├── sqlite.py
